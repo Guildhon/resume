@@ -33,6 +33,11 @@
             "type": "weibo",
             "link": "http://weibo.com/abo01",
             "icon": ""
+        },
+        {
+        	"type": "Homepage",
+        	"link": "http://wyuol.com",
+        	"icon": ""
         }
     ],
     "InternExperiences": [
